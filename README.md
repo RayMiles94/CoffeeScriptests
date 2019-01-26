@@ -1,0 +1,2 @@
+# CoffeeScriptests
+Coffee Script test
