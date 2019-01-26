@@ -24,6 +24,7 @@
   "homepage": "https://github.com/RayMiles94/CoffeeScriptests#readme",
   "dependencies": {
     "coffeescript": "^2.3.2",
-    "gulp-coffee": "^3.0.3"
+    "gulp-coffee": "^3.0.3",
+    "gulp-run-command": "0.0.9"
   }
 }
