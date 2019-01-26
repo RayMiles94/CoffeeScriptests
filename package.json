@@ -1,0 +1,29 @@
+{
+  "name": "coffeescriptests",
+  "version": "1.0.0",
+  "description": "Coffee Script test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayMiles94/CoffeeScriptests.git"
+  },
+  "keywords": [
+    "coffeescript",
+    "javascript",
+    "nodejs",
+    "gup"
+  ],
+  "author": "abd raouf (ray miles)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayMiles94/CoffeeScriptests/issues"
+  },
+  "homepage": "https://github.com/RayMiles94/CoffeeScriptests#readme",
+  "dependencies": {
+    "coffeescript": "^2.3.2",
+    "gulp-coffee": "^3.0.3"
+  }
+}
