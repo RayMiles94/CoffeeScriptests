@@ -1,4 +1,6 @@
-/* author : abd raouf */
+/* author : abd raouf 
+*  git+https://github.com/RayMiles94/CoffeeScriptests.git
+*/
 var gulp   = require('gulp');
 var coffee = require('gulp-coffee');
 
